@@ -18,3 +18,11 @@ height: 50px;width: 100px;
 #scritta02{
     color: rgb(12, 120, 221);
 }
+
+.testo-foto{
+    color: gray;
+}
+
+#colore-giallo{
+background-color: yellow;
+}
